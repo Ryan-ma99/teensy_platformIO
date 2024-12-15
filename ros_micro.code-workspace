@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Cust",
+			"path": "."
+		}
+	],
+	"settings": {
+		"ros.distro": "humble",
+		"files.associations": {
+			"16ch_irf": "cpp"
+		}
+	}
+}
